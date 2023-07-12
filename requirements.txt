@@ -1,0 +1,8 @@
+hyperopt==0.2.7
+matplotlib==3.7.2
+nltk==3.8.1
+numpy==1.24.3
+opencv_python==4.8.0.74
+python_Levenshtein==0.21.1
+tensorflow==2.13.0
+tqdm==4.65.0
